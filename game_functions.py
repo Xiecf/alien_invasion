@@ -25,4 +25,3 @@ def update_screen(ai_settings, screen, ship):
     ship.blitme()  # 重绘飞船
 
     pygame.display.flip()  # 刷新屏幕
-
