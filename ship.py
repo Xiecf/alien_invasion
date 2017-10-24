@@ -1,6 +1,7 @@
 import pygame
 import settings
 
+from settings import Settings
 
 class Ship:
 
