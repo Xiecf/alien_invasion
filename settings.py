@@ -9,4 +9,4 @@ class Settings:
         self.bg_color = (230, 230, 230)
 
         # 飞船的设置
-        self.ship_speed_factor = 1.5
+        self.ship_speed_factor = 20
