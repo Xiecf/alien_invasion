@@ -20,6 +20,8 @@ class Ship:
 		# 移动标志
 		self.moving_right = False
 		self.moving_left = False
+		self.moving_up = False
+		self.moving_down = False
 
 		# 在飞船的属性center中存储小数值
 		self.center = float(self.rect.centerx)
